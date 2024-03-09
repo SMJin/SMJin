@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 hey! WELCOME to</h1>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=MJ's%20PlayGround&fontSize=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Juno's%20PlayGround&fontSize=50&theme=radical)
 
 🐯 객체지향을 사랑하는 백엔드 개발자입니다.
 

@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <h5>Languages</h5>
-    <img src="https://skillicons.dev/icons?i=java,js,jquery" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,js,jquery" />
     <h5>Framework</h5>
-    <img src="https://skillicons.dev/icons?i=spring,react,redux" />
+    <img src="https://skillicons.dev/icons?i=spring,react" />
     <h5>Database</h5>
     <img src="https://skillicons.dev/icons?i=mysql" />
     <h5>etc.</h5>

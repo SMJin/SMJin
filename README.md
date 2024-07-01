@@ -18,6 +18,7 @@
     <img src="https://skillicons.dev/icons?i=mysql" />
     <h5>etc.</h5>
     <img src="https://skillicons.dev/icons?i=aws,gitlab,gradle,postman" />
+    ![aws-certified-solutions-architect-professional](https://github.com/SMJin/SMJin/assets/32761189/185804bd-c5ef-4b30-b33d-283a92919f5a)
   </a>
 </p>
 
